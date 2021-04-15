@@ -1,0 +1,378 @@
+{
+  "count": 11,
+  "status": 0,
+  "statusCode": 200,
+  "response": {
+    "files": [
+      {
+        "folderId": 1413360,
+        "version": 1,
+        "versionGroup": 1,
+        "contentLength": "308,67 Кб",
+        "pureContentLength": 316075,
+        "fileStatus": 0,
+        "viewUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/HttpHandlers/filehandler.ashx?action=download&fileid=3639141",
+        "webUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/#preview/3639141",
+        "fileType": 4,
+        "fileExst": ".jpg",
+        "comment": null,
+        "id": 3639141,
+        "title": "2018-02-22 11-28-41.jpg",
+        "access": 0,
+        "shared": false,
+        "rootFolderType": 5,
+        "updatedBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "created": "2018-02-22T12:29:27.0000000+04:00",
+        "createdBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "updated": "2018-02-22T12:29:27.0000000+04:00"
+      },
+      {
+        "folderId": 1413360,
+        "version": 1,
+        "versionGroup": 1,
+        "contentLength": "184,38 Кб",
+        "pureContentLength": 188801,
+        "fileStatus": 0,
+        "viewUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/HttpHandlers/filehandler.ashx?action=download&fileid=3639142",
+        "webUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/#preview/3639142",
+        "fileType": 4,
+        "fileExst": ".jpg",
+        "comment": null,
+        "id": 3639142,
+        "title": "2018-02-22 11-28-48.jpg",
+        "access": 0,
+        "shared": false,
+        "rootFolderType": 5,
+        "updatedBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "created": "2018-02-22T12:29:33.0000000+04:00",
+        "createdBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "updated": "2018-02-22T12:29:33.0000000+04:00"
+      },
+      {
+        "folderId": 1413360,
+        "version": 1,
+        "versionGroup": 1,
+        "contentLength": "260,35 Кб",
+        "pureContentLength": 266595,
+        "fileStatus": 0,
+        "viewUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/HttpHandlers/filehandler.ashx?action=download&fileid=5813799",
+        "webUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/DocEditor.aspx?fileid=5813799",
+        "fileType": 7,
+        "fileExst": ".pdf",
+        "comment": "Загружена",
+        "id": 5813799,
+        "title": "264824 (1).pdf",
+        "access": 0,
+        "shared": false,
+        "rootFolderType": 5,
+        "updatedBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "created": "2020-10-14T10:19:23.0000000+04:00",
+        "createdBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "updated": "2020-10-14T10:19:23.0000000+04:00"
+      },
+      {
+        "folderId": 1413360,
+        "version": 1,
+        "versionGroup": 1,
+        "contentLength": "13,42 Кб",
+        "pureContentLength": 13746,
+        "fileStatus": 0,
+        "viewUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/HttpHandlers/filehandler.ashx?action=download&fileid=3818854",
+        "webUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/DocEditor.aspx?fileid=3818854",
+        "fileType": 5,
+        "fileExst": ".csv",
+        "comment": "Uploaded",
+        "id": 3818854,
+        "title": "data-export (2) 5.csv",
+        "access": 0,
+        "shared": false,
+        "rootFolderType": 5,
+        "updatedBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "created": "2018-05-24T12:24:25.0000000+04:00",
+        "createdBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "updated": "2018-05-24T12:24:25.0000000+04:00"
+      },
+      {
+        "folderId": 1413360,
+        "version": 1,
+        "versionGroup": 1,
+        "contentLength": "13,42 Кб",
+        "pureContentLength": 13746,
+        "fileStatus": 0,
+        "viewUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/HttpHandlers/filehandler.ashx?action=download&fileid=3818976",
+        "webUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/DocEditor.aspx?fileid=3818976",
+        "fileType": 5,
+        "fileExst": ".csv",
+        "comment": "Uploaded",
+        "id": 3818976,
+        "title": "data-export (2).csv",
+        "access": 0,
+        "shared": false,
+        "rootFolderType": 5,
+        "updatedBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "created": "2018-05-24T12:53:06.0000000+04:00",
+        "createdBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "updated": "2018-05-24T12:53:06.0000000+04:00"
+      },
+      {
+        "folderId": 1413360,
+        "version": 1,
+        "versionGroup": 1,
+        "contentLength": "166,48 Кб",
+        "pureContentLength": 170473,
+        "fileStatus": 0,
+        "viewUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/HttpHandlers/filehandler.ashx?action=download&fileid=4950685",
+        "webUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/DocEditor.aspx?fileid=4950685",
+        "fileType": 7,
+        "fileExst": ".docx",
+        "comment": "Загружена",
+        "id": 4950685,
+        "title": "MSFT_FY11Q3_10Q.docx",
+        "access": 0,
+        "shared": true,
+        "rootFolderType": 5,
+        "updatedBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "created": "2019-10-30T12:21:29.0000000+04:00",
+        "createdBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "updated": "2019-10-30T12:21:29.0000000+04:00"
+      },
+      {
+        "folderId": 1413360,
+        "version": 2,
+        "versionGroup": 1,
+        "contentLength": "63,17 Кб",
+        "pureContentLength": 64684,
+        "fileStatus": 0,
+        "viewUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/HttpHandlers/filehandler.ashx?action=download&fileid=4009992",
+        "webUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/DocEditor.aspx?fileid=4009992",
+        "fileType": 7,
+        "fileExst": ".docx",
+        "comment": "Edited",
+        "id": 4009992,
+        "title": "ONLYOFFICE Sample Document (1).docx",
+        "access": 0,
+        "shared": false,
+        "rootFolderType": 5,
+        "updatedBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "created": "2018-09-10T17:13:16.0000000+04:00",
+        "createdBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "updated": "2018-09-10T22:58:28.0000000+04:00"
+      },
+      {
+        "folderId": 1413360,
+        "version": 2,
+        "versionGroup": 1,
+        "contentLength": "1,06 Мб",
+        "pureContentLength": 1113983,
+        "fileStatus": 0,
+        "viewUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/HttpHandlers/filehandler.ashx?action=download&fileid=3625325",
+        "webUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/DocEditor.aspx?fileid=3625325",
+        "fileType": 6,
+        "fileExst": ".pptx",
+        "comment": "Edited",
+        "id": 3625325,
+        "title": "ONLYOFFICE Sample Presentation.pptx",
+        "access": 0,
+        "shared": false,
+        "rootFolderType": 5,
+        "updatedBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "created": "2018-02-14T16:15:35.0000000+04:00",
+        "createdBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "updated": "2018-06-25T17:02:04.0000000+04:00"
+      },
+      {
+        "folderId": 1413360,
+        "version": 2,
+        "versionGroup": 2,
+        "contentLength": "129,39 Кб",
+        "pureContentLength": 132494,
+        "fileStatus": 0,
+        "viewUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/HttpHandlers/filehandler.ashx?action=download&fileid=3625326",
+        "webUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/Files/DocEditor.aspx?fileid=3625326",
+        "fileType": 5,
+        "fileExst": ".xlsx",
+        "comment": "Отредактирована",
+        "id": 3625326,
+        "title": "ONLYOFFICE Sample Spreadsheets.xlsx",
+        "access": 0,
+        "shared": false,
+        "rootFolderType": 5,
+        "updatedBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "created": "2018-02-14T16:15:35.0000000+04:00",
+        "createdBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "updated": "2019-12-02T17:21:59.0000000+04:00"
+      }
+    ],
+    "folders": [
+      {
+        "parentId": 1413360,
+        "filesCount": 12,
+        "foldersCount": 0,
+        "id": 1436515,
+        "title": "Video",
+        "access": 0,
+        "shared": false,
+        "rootFolderType": 5,
+        "updatedBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "created": "2018-03-27T15:48:43.0000000+04:00",
+        "createdBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "updated": "2019-12-02T15:31:25.0000000+04:00"
+      },
+      {
+        "parentId": 1413360,
+        "filesCount": 9,
+        "foldersCount": 0,
+        "id": 1539639,
+        "title": "Демо",
+        "access": 0,
+        "shared": false,
+        "rootFolderType": 5,
+        "updatedBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "created": "2018-09-10T17:10:31.0000000+04:00",
+        "createdBy": {
+          "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+          "displayName": "Yuzhin Alexander",
+          "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+          "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+        },
+        "updated": "2019-11-29T17:07:58.0000000+04:00"
+      }
+    ],
+    "current": {
+      "parentId": 0,
+      "filesCount": 30,
+      "foldersCount": 2,
+      "isShareable": true,
+      "id": 1413360,
+      "title": "Мои документы",
+      "access": 0,
+      "shared": false,
+      "rootFolderType": 5,
+      "updatedBy": {
+        "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+        "displayName": "Yuzhin Alexander",
+        "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+        "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+      },
+      "created": "2018-02-14T16:15:33.0000000+04:00",
+      "createdBy": {
+        "id": "bf7d352a-a570-4833-8d14-5e37ddc24135",
+        "displayName": "Yuzhin Alexander",
+        "avatarSmall": "https://static.onlyoffice.com/studio/tag/11.1.0/skins/default/images/default_user_photo_size_32-32.png?_=975206307",
+        "profileUrl": "https://alexanderyuzhin.onlyoffice.eu/Products/People/Profile.aspx?user=alexander.yuzhin"
+      },
+      "updated": "2020-10-14T10:19:23.0000000+04:00"
+    },
+    "pathParts": [
+      1413360
+    ],
+    "startIndex": 0,
+    "count": 11,
+    "total": 11
+  }
+}
