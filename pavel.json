@@ -1,0 +1,130 @@
+{
+    "count": 3,
+    "status": 0,
+    "statusCode": 200,
+    "response": {
+        "files": [
+            {
+                "folderId": 2279517,
+                "version": 2,
+                "versionGroup": 1,
+                "contentLength": "20,73 Кб",
+                "pureContentLength": 21230,
+                "fileStatus": 0,
+                "viewUrl": "https://pavelchernyshev.onlyoffice.eu/Products/Files/HttpHandlers/filehandler.ashx?action=download&fileid=6400961",
+                "webUrl": "https://pavelchernyshev.onlyoffice.eu/Products/Files/DocEditor.aspx?fileid=6400961",
+                "fileType": 7,
+                "fileExst": ".docx",
+                "comment": "Отредактирована",
+                "id": 6400961,
+                "title": "Новый документ.docx",
+                "access": 0,
+                "shared": false,
+                "rootFolderType": 1,
+                "updatedBy": {
+                    "id": "78ccf0c3-caa6-4851-bb02-7a996f3c943a",
+                    "displayName": "Чернышев Павел",
+                    "avatarSmall": "/storage/userPhotos/root/78ccf0c3-caa6-4851-bb02-7a996f3c943a_size_32-32.png?_=1766652931",
+                    "profileUrl": "https://pavelchernyshev.onlyoffice.eu/Products/People/Profile.aspx?user=pavel.chernyshev.work"
+                },
+                "created": "2021-04-09T21:27:18.0000000+03:00",
+                "createdBy": {
+                    "id": "78ccf0c3-caa6-4851-bb02-7a996f3c943a",
+                    "displayName": "Чернышев Павел",
+                    "avatarSmall": "/storage/userPhotos/root/78ccf0c3-caa6-4851-bb02-7a996f3c943a_size_32-32.png?_=1766652931",
+                    "profileUrl": "https://pavelchernyshev.onlyoffice.eu/Products/People/Profile.aspx?user=pavel.chernyshev.work"
+                },
+                "updated": "2021-04-09T21:28:07.0000000+03:00"
+            },
+            {
+                "folderId": 2279517,
+                "version": 1,
+                "versionGroup": 1,
+                "contentLength": "2,16 Мб",
+                "pureContentLength": 2265352,
+                "fileStatus": 0,
+                "viewUrl": "https://pavelchernyshev.onlyoffice.eu/Products/Files/HttpHandlers/filehandler.ashx?action=download&fileid=6400962",
+                "webUrl": "https://pavelchernyshev.onlyoffice.eu/Products/Files/#preview/6400962",
+                "fileType": 4,
+                "fileExst": ".png",
+                "comment": "Загружена",
+                "id": 6400962,
+                "title": "Снимок экрана 2020-04-16 в 23.11.42.png",
+                "access": 0,
+                "shared": false,
+                "rootFolderType": 1,
+                "updatedBy": {
+                    "id": "78ccf0c3-caa6-4851-bb02-7a996f3c943a",
+                    "displayName": "Чернышев Павел",
+                    "avatarSmall": "/storage/userPhotos/root/78ccf0c3-caa6-4851-bb02-7a996f3c943a_size_32-32.png?_=1766652931",
+                    "profileUrl": "https://pavelchernyshev.onlyoffice.eu/Products/People/Profile.aspx?user=pavel.chernyshev.work"
+                },
+                "created": "2021-04-09T21:29:36.0000000+03:00",
+                "createdBy": {
+                    "id": "78ccf0c3-caa6-4851-bb02-7a996f3c943a",
+                    "displayName": "Чернышев Павел",
+                    "avatarSmall": "/storage/userPhotos/root/78ccf0c3-caa6-4851-bb02-7a996f3c943a_size_32-32.png?_=1766652931",
+                    "profileUrl": "https://pavelchernyshev.onlyoffice.eu/Products/People/Profile.aspx?user=pavel.chernyshev.work"
+                },
+                "updated": "2021-04-09T21:29:36.0000000+03:00"
+            }
+        ],
+        "folders": [
+            {
+                "parentId": 2279517,
+                "filesCount": 1,
+                "foldersCount": 0,
+                "id": 2279832,
+                "title": "fourth",
+                "access": 0,
+                "shared": false,
+                "rootFolderType": 1,
+                "updatedBy": {
+                    "id": "78ccf0c3-caa6-4851-bb02-7a996f3c943a",
+                    "displayName": "Чернышев Павел",
+                    "avatarSmall": "/storage/userPhotos/root/78ccf0c3-caa6-4851-bb02-7a996f3c943a_size_32-32.png?_=1766652931",
+                    "profileUrl": "https://pavelchernyshev.onlyoffice.eu/Products/People/Profile.aspx?user=pavel.chernyshev.work"
+                },
+                "created": "2021-04-10T11:02:17.0000000+03:00",
+                "createdBy": {
+                    "id": "78ccf0c3-caa6-4851-bb02-7a996f3c943a",
+                    "displayName": "Чернышев Павел",
+                    "avatarSmall": "/storage/userPhotos/root/78ccf0c3-caa6-4851-bb02-7a996f3c943a_size_32-32.png?_=1766652931",
+                    "profileUrl": "https://pavelchernyshev.onlyoffice.eu/Products/People/Profile.aspx?user=pavel.chernyshev.work"
+                },
+                "updated": "2021-04-10T11:03:00.0000000+03:00"
+            }
+        ],
+        "current": {
+            "parentId": 0,
+            "filesCount": 3,
+            "foldersCount": 1,
+            "isShareable": true,
+            "id": 2279517,
+            "title": "Общие",
+            "access": 0,
+            "shared": false,
+            "rootFolderType": 1,
+            "updatedBy": {
+                "id": "78ccf0c3-caa6-4851-bb02-7a996f3c943a",
+                "displayName": "Чернышев Павел",
+                "avatarSmall": "/storage/userPhotos/root/78ccf0c3-caa6-4851-bb02-7a996f3c943a_size_32-32.png?_=1766652931",
+                "profileUrl": "https://pavelchernyshev.onlyoffice.eu/Products/People/Profile.aspx?user=pavel.chernyshev.work"
+            },
+            "created": "2021-04-09T21:26:36.0000000+03:00",
+            "createdBy": {
+                "id": "78ccf0c3-caa6-4851-bb02-7a996f3c943a",
+                "displayName": "Чернышев Павел",
+                "avatarSmall": "/storage/userPhotos/root/78ccf0c3-caa6-4851-bb02-7a996f3c943a_size_32-32.png?_=1766652931",
+                "profileUrl": "https://pavelchernyshev.onlyoffice.eu/Products/People/Profile.aspx?user=pavel.chernyshev.work"
+            },
+            "updated": "2021-04-10T11:03:00.0000000+03:00"
+        },
+        "pathParts": [
+            2279517
+        ],
+        "startIndex": 0,
+        "count": 3,
+        "total": 3
+    }
+}
